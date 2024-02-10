@@ -1,2 +1,4 @@
 # Telecom_Churn_Prediction
-Domain: Telecommunication Industry Title: Customer Churn Prediction for Telecommunication Company: Enabling Targeted Retention Offers using Machine Learning
+Domain: Telecommunication Industry 
+Title: Customer Churn Prediction for Telecommunication Company: Enabling Targeted Retention Offers using Machine Learning
+BUSINESS PROBLEM: Telecommunication Company XYZ faces the critical challenge of high customer churn rates, which impacts its business growth and profitability. To ensure sustained success, the company aims to implement an effective Customer Churn Prediction system using Machine Learning. The primary business problem is to accurately identify customers at risk of churning and devise personalized retention strategies to reduce churn and enhance overall customer loyalty. By leveraging advanced predictive analytics and targeted offers, the company aims to maximize customer retention and optimize its resources for customer acquisition, thereby securing long-term profitability and competitiveness in the highly competitive telecommunication industry.
